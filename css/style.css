@@ -1,0 +1,1445 @@
+body{
+   
+    font-family: 'Roboto', sans-serif;
+    
+}
+a {
+    text-decoration: none;
+}
+
+:root {
+    --color-a:#2196F3 ;
+    --color-b: #757575;
+    --color-c:#2F303A ;
+    --color-d:#FFFFFF ;
+    --colo-ir:#2dce50 ;
+    --color-f:#8178b9 ;
+    --color-g:#E5E5E5 ;
+    --color-k: #F5F4FA;
+    --color-l:  rgba(255, 255, 255, 0.6);
+    --color-m:#188CE8;
+}
+
+h1,h2,h3,h4,h5,h6,ul,a,p,li{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 100%;
+    display: block;
+}
+
+
+
+.list{
+    list-style: none;
+}
+.nigniya-nas{
+    color: var(--color-b);
+}
+.nogi{
+    background: var(--color-c);
+}
+.logo{
+    color: var(--color-a);
+}
+
+.adres{
+    color:var(--color-d);
+    font-style: normal;   
+}
+.studio1{
+    color: var(--color-c);
+}
+.dannie list{
+    color:var(--color-d);
+}
+.pochta , .nomer{
+ color: var(--color-b);
+}
+
+}
+
+}
+
+.portfolio :active{
+    color:var(--color-a);
+}
+.vse :hover{
+    color:var(--color-a);
+}
+.name{
+    cursor: pointer;
+}
+
+.lfz{
+ background: var(--color-k);
+}
+
+.nadpis{
+    color: var(--color-d);
+}
+.knopka-hero{
+    background:var(--color-a);
+    color: var(--color-d);
+}
+.fon-ludei{
+    background: var(--color-d);
+}
+.pochta:hover{
+    color:var(--color-a);
+}
+.nomer:hover{
+    color:var(--color-a);
+}
+.pochta3:hover{
+    color:var(--color-a);
+}
+.nomer4:hover{
+    color:var(--color-a);
+}
+.pochta3{
+color: var(--color-b);
+}
+.nomer4{
+    color: var(--color-b);
+}
+.name{
+background: var(--color-k);
+color: var(--color-c);
+}
+.name:hover{
+background: var(--color-a);
+color: var(--color-d);
+}
+
+.portfolio{
+    color: var(--color-c);
+}
+.kontakt{
+    color: var(--color-c);
+}
+.st{
+    color: var(--color-d);
+}
+.pochta1{
+    color: var(--color-b);
+}
+.nomer1{
+    color: var(--color-b);
+}
+.name{
+    cursor: pointer;
+    font-weight: 500;
+font-size: 16px;
+line-height: 1.62;
+}
+.podpis{
+    font-size: 16px;
+line-height: 1.18;
+font-weight: normal;
+color: var(--color-b);
+}
+.pd{
+    font-size: 18px;
+line-height: 2;
+font-weight: bold;
+color: var(--color-c);
+}
+.ps{
+    font-size: 16px;
+line-height: 1.87;
+font-weight: normal;
+color: var(--color-b)
+}
+.pochta3{
+    font-size: 14px;
+    line-height: 1.14;
+}
+.nomer4{
+    font-size: 14px;
+line-height: 1.14;
+}
+.name{
+    font-size: 16px;
+line-height: 1.62;
+}
+
+p{
+    font-weight: normal;
+font-size: 14px;
+line-height: 1.71;
+}
+.pochta, .nomer{
+    font-size: 14px;
+}
+
+.nadpis{
+    font-size: 44px;
+line-height: 1.36;
+font-weight: 900;
+}
+h3{
+    font-size: 14px;
+line-height: 1.14;
+
+
+
+}
+.knopka-hero{
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 1.87;
+    font-family: inherit ;
+
+    padding: 10px 32px;
+}
+.text{
+    font-size: 14px;
+line-height:1.14;
+font-weight: normal;
+}
+
+h2{
+    font-size: 36px;
+line-height: 1.16;
+font-weight: bold;
+}
+.g{
+    font-size: 36px;
+line-height: 1.16;
+font-weight: bold;
+}
+h3{
+    font-size: 16px;
+line-height: 1.18;
+font-weight: 500;
+
+}
+
+
+.text{
+    color: var(--color-b);
+}
+
+
+
+
+.logotip{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 1.19;
+}
+
+.menu{
+    font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+}
+.silki{
+    font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+}
+.dannie{
+    font-weight: normal;
+font-size: 14px;
+line-height: 1.71;
+}
+
+
+
+
+
+
+
+
+
+
+
+.studias{
+    color: var(--color-c);
+}
+
+
+
+.studias:hover,
+.studias:focus 
+.studias:active
+.studias:visited{
+    color: var(--color-a);
+}
+
+
+.portfolio:hover,
+.portfolio:focus 
+.portfolio:active
+.portfolio:visited
+{
+    color:var(--color-a) ;
+}
+.kontakt:hover,
+.kontakt:focus 
+.kontakt:active
+.kontakt:visited
+{
+    color: var(--color-a) ;
+    
+}
+.name:hover,
+.name:focus 
+.name:active
+.name:visited
+{
+    color: var(--color-a) ;
+    color: #FFFFFF;
+}
+
+
+.first-page{
+    color: var(--color-a);
+}
+.second-page{
+    color: var(--color-a);
+}
+.tretya-page{
+    color: var(--color-a);
+}
+.nomer1 , .pochta1{
+    color: var(--color-l);
+}
+.knopka-hero:hover ,
+.knopka-hero:focus{
+ color: var(--color-d);
+ background: var(--color-m) ;
+}
+.zagalovki ,.nadpis{
+    text-transform: uppercase;
+}
+.pochta1 ,.nomer1{
+    font-style: normal;
+}
+.container{
+    width: 1200px;
+    margin-left: auto;
+   margin-right: auto;
+}
+
+
+.adres{
+    margin-bottom: 9px;
+}
+.dannie{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+.logotip{
+   margin-top: 0px;
+   margin-bottom: 0px;;
+}
+.adres{
+    margin-top: 20px;
+}
+.nogi-otstypi{
+    padding-bottom: 60px;
+    padding-top: 60px;
+}
+.nadpis, .knopka-hero{
+    text-align:  center ;
+}
+.knopka-hero{
+    display: inline-block;
+}
+.fon-ludei{
+    width: 270px;
+    height: 368px;
+   
+    
+}
+
+.ludi{
+    display: flex;
+}
+.fotki{
+    display: flex;
+    
+}
+
+.primeri-rabot{
+   
+    width: 370px ;
+    height: 294px ;
+}
+.menu , .silki{
+    display: flex;
+}
+.silki .vmeste + .vmeste{
+    margin-left: 50px;
+}
+.menu .vmestea + .vmestea{
+    margin-left: 50px;
+}
+.logotip{
+    margin-right: 93px;
+}
+.vmestea{
+    display: block;
+}
+.zbros{
+    padding-left: 0px;
+}
+.ludi .fon-ludei + .fon-ludei{
+    margin-left: 30px;
+}
+.fotki .primeri-rabot + .primeri-rabot{
+    margin-left: 30px;
+}
+.fotki{
+    padding-left: 0px;
+}
+.podpis{
+    text-align: center;
+}
+
+.imia{
+    text-align: center;
+}
+.silki .pochta3 + .nomer4{
+    margin-left: 50px;
+}
+.for-center{
+    text-align: center;
+}
+
+.name{
+    padding: 6px 22px;
+    
+}
+
+
+.for-otstyp{
+    display: flex;
+    padding: 0px;
+    justify-content: center;
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+
+.for-otstyp .knopki-portfolio + .knopki-portfolio{
+    margin-left: 8px;
+}
+.ophaya-tabl{
+    width: 370px; ;
+   
+}
+
+.zagalovki{
+    
+    margin-bottom: 10px;
+    margin-top: 0px;
+}
+.zagalovki-otstyp{
+    width: 270px;
+    height: 75px; 
+    
+}
+.zbros{
+    display: flex;
+    margin: 0px;
+}
+.zbros .perechislenie + .perechislenie{
+    margin-left: 30px;
+}
+
+.nadpis{
+ 
+   margin-bottom: 40px;
+   margin-top: 0px;
+}
+.fon-ludei{
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.12), 0px 1px 1px rgba(0, 0, 0, 0.14), 0px 2px 1px rgba(0, 0, 0, 0.2);
+border-radius: 0px 0px 4px 4px;
+}
+
+.section{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
+.obnylenie{
+    margin-bottom: 50px;
+    margin-top: 0px;
+}
+.twoinone{
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+.knopki-portfolio{
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
+border-radius: 4px;
+}
+verhniy-box{
+    padding-bottom: 200px;
+    padding-top: 200px;
+}
+
+
+.z{
+    display: flex;
+    align-items: baseline;
+
+}
+
+.j{
+padding: 0px;
+}
+
+.j{
+    margin-left: 331px;
+}
+.logotip{
+    margin-right: 0px;
+}
+.menu{
+    padding-left: 0px;
+    margin-left: 93px;
+}
+
+
+
+.container{
+    width: 1200px;
+    margin-left: auto;
+   margin-right: auto;
+   padding-left: 15px;
+   padding-right: 15px;
+  
+}
+
+.nahi-roboti{
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -30px;
+    margin-top: -30px;
+
+}
+.nahi-roboti  .ophaya-tabl{
+flex-basis: calc(100%/3 - 30px) ;
+margin-right: 30px;
+    margin-top: 30px;
+}
+
+
+
+.silki{
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 331px;
+  
+}
+.menu{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+
+.first-header , .second-header{
+    border-bottom: 1px solid #ECECEC;
+}
+.section{
+    margin-top: 94px;
+    margin-bottom: 94px;
+}
+
+.name{
+    border-radius: 4px    ;
+}
+.kg{
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+.section{
+    margin: 0px;
+}
+.obrez{
+    padding-top: 0px;
+}
+.zagalovki-otstyp{
+    margin: 0px;
+}
+.as{
+    margin: 0px;
+}
+
+.zagalovki-otstyp{
+    width: 270px;
+    height: 75px;
+}
+.pd{
+    width: 322px;
+height: 36px;
+}
+.ps{
+    width: 322px;
+    height: 30px;
+}
+
+.bgcolor-hero{
+    background: var(--color-c);
+    padding-top: 200px;
+    padding-bottom: 200px;
+    text-align: center;
+}
+.pr{
+    border: 1px solid #EEEEEE;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 24px;
+    padding-left: 24px;
+
+}
+.opisanie-ludey{
+    padding-top: 30px;
+    padding-bottom:30px ;
+}
+.imia{
+    margin-bottom: 10px;
+}
+.pd{
+    margin-bottom: 4px;
+}
+.nomer-one{
+    margin-top: 9px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
