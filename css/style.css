@@ -328,9 +328,7 @@ line-height: 1.71;
 }
 
 
-.adres{
-    margin-bottom: 9px;
-}
+
 .dannie{
     margin-top: 0px;
     margin-bottom: 0px;
@@ -343,7 +341,7 @@ line-height: 1.71;
 .adres{
     margin-top: 20px;
 }
-.nogi-otstypi{
+.nogi{
     padding-bottom: 60px;
     padding-top: 60px;
 }
@@ -442,11 +440,7 @@ line-height: 1.71;
     margin-bottom: 10px;
     margin-top: 0px;
 }
-.zagalovki-otstyp{
-    width: 270px;
-    height: 75px; 
-    
-}
+
 .zbros{
     display: flex;
     margin: 0px;
@@ -499,14 +493,14 @@ padding: 0px;
 }
 
 .j{
-    margin-left: 331px;
+    margin-left: auto;
 }
 .logotip{
     margin-right: 0px;
 }
 .menu{
     padding-left: 0px;
-    margin-left: 93px;
+   
 }
 
 
@@ -540,14 +534,13 @@ margin-right: 30px;
     padding-left: 0px;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-left: 331px;
+   
   
 }
 .menu{
     margin-top: 0px;
     margin-bottom: 0px;
-    padding-top: 32px;
-    padding-bottom: 32px;
+    
 }
 
 .first-header , .second-header{
@@ -578,18 +571,8 @@ margin-right: 30px;
     margin: 0px;
 }
 
-.zagalovki-otstyp{
-    width: 270px;
-    height: 75px;
-}
-.pd{
-    width: 322px;
-height: 36px;
-}
-.ps{
-    width: 322px;
-    height: 30px;
-}
+
+
 
 .bgcolor-hero{
     background: var(--color-c);
@@ -599,6 +582,7 @@ height: 36px;
 }
 .pr{
     border: 1px solid #EEEEEE;
+    border-top: 0;
     padding-top: 20px;
     padding-bottom: 20px;
     padding-right: 24px;
@@ -619,9 +603,24 @@ height: 36px;
     margin-top: 9px;
 }
 
-
-
-
+.otstyp-v-hedere-ot-logo{
+    margin-left: 93px;
+}
+.studias ,.portfolio ,.kontakt{
+    padding-top: 32px;
+    padding-bottom: 32px;
+    display: block;
+}
+.nadpis{
+   
+    text-align: center;
+}
+.perechislenie{
+    width: 270px;
+}
+.hfl{
+    margin-top: 9px;
+}
 
 
 
